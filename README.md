@@ -3,6 +3,19 @@ A neural network to generate captions for an image using CNN and LSTM with BEAM 
 
 Model was trained on Flickr8K dataset.
 
+Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
+
+### Dependencies
+
+* Keras 1.2.2
+* Tensorflow 0.12.1
+* numpy
+* pandas
+* matplotlib
+* pickle
+* PIL
+* glob
+
 
  ### RESULT : CNN(VGG16) + LSTM: Predict caption on testing set images
  ______
